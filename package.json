@@ -9,6 +9,6 @@
     "url": "https://github.com/luxp/mathquill-webpack.git"
   },
   "dependencies": {
-    "jquery": "latest"
+    "jquery": "^3.2.1"
   }
 }
